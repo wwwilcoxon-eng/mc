@@ -1,0 +1,70 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:netherite_helmet": 1,
+      "minecraft:wind_charge": 5,
+      "minecraft:diamond_spear": 3,
+      "minecraft:mace": 51,
+      "minecraft:firework_rocket": 57,
+      "minecraft:golden_apple": 1,
+      "minecraft:elytra": 1,
+      "minecraft:villager_spawn_egg": 18,
+      "minecraft:netherite_boots": 1,
+      "minecraft:netherite_leggings": 1,
+      "minecraft:netherite_chestplate": 1,
+      "minecraft:enchanted_golden_apple": 5,
+      "minecraft:dirt": 22
+    },
+    "minecraft:picked_up": {
+      "minecraft:diamond_spear": 1,
+      "minecraft:dirt": 24,
+      "minecraft:firework_rocket": 64,
+      "minecraft:deepslate_bricks": 1,
+      "minecraft:netherite_leggings": 1,
+      "minecraft:netherite_chestplate": 1,
+      "minecraft:netherite_helmet": 1,
+      "minecraft:elytra": 1,
+      "minecraft:netherite_boots": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:wind_charge": 3,
+      "minecraft:diamond_spear": 1
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 6
+    },
+    "minecraft:mined": {
+      "minecraft:grass_block": 1
+    },
+    "minecraft:custom": {
+      "minecraft:damage_resisted": 400,
+      "minecraft:talked_to_villager": 1,
+      "minecraft:time_since_rest": 1351,
+      "minecraft:walk_one_cm": 51439,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 1,
+      "minecraft:damage_taken": 4365,
+      "minecraft:play_time": 22633,
+      "minecraft:damage_dealt": 1003,
+      "minecraft:damage_absorbed": 835,
+      "minecraft:jump": 195,
+      "minecraft:time_since_death": 1351,
+      "minecraft:aviate_one_cm": 307696,
+      "minecraft:damage_dealt_absorbed": 1658,
+      "minecraft:drop": 4,
+      "minecraft:sprint_one_cm": 8922,
+      "minecraft:open_chest": 3,
+      "minecraft:fall_one_cm": 37096,
+      "minecraft:total_world_time": 22633,
+      "minecraft:fly_one_cm": 67239,
+      "minecraft:crouch_one_cm": 875,
+      "minecraft:sneak_time": 397,
+      "minecraft:deaths": 11,
+      "minecraft:player_kills": 1
+    },
+    "minecraft:killed": {
+      "minecraft:villager": 1
+    }
+  },
+  "DataVersion": 4671
+}

@@ -1,0 +1,352 @@
+[00:00:11] [Server thread/INFO]: blime2009÷ has reached the goal [Postmortal]
+[00:00:29] [Server thread/INFO]: Xautral issued server command: /summon minecraft:warden ~ ~ ~ {NoAI:1b}
+[00:00:29] [Server thread/INFO]: [Xautral×: Summoned new Warden]
+[00:00:37] [Server thread/INFO]: [Azrakhaelit Dominion] zTeiszch has made the advancement [Take Aim]
+[00:00:42] [Server thread/INFO]: [Not Secure] [@] Xautral× ha detenido el Tiempo
+[00:01:39] [Server thread/INFO]: [Not Secure] [@] Xautral× ha detenido el Tiempo
+[00:01:49] [Async Chat Thread - #151/INFO]: [Not Secure] <zTeiszch> YAAAA
+[00:02:19] [Server thread/INFO]: [Not Secure] [@] Xautral× ha detenido el Tiempo
+[00:02:22] [Async Chat Thread - #151/INFO]: [Not Secure] <zTeiszch> Xautral
+[00:02:24] [Async Chat Thread - #151/INFO]: [Not Secure] <Xautral> ue
+[00:02:25] [Async Chat Thread - #151/INFO]: [Not Secure] <zTeiszch> es necesario?
+[00:02:31] [Async Chat Thread - #151/INFO]: [Not Secure] <Xautral> que cosa
+[00:02:33] [Server thread/INFO]: [Not Secure] [@] blime2009÷ ha detenido el Tiempo
+[00:02:38] [Async Chat Thread - #151/INFO]: [Not Secure] <zTeiszch> que pares el tiempol
+[00:02:40] [Async Chat Thread - #151/INFO]: [Not Secure] <Xautral> si
+[00:02:42] [Async Chat Thread - #151/INFO]: [Not Secure] <Xautral> es de una habilidad
+[00:02:43] [Async Chat Thread - #151/INFO]: [Not Secure] <Xautral> de una runa
+[00:02:45] [Async Chat Thread - #151/INFO]: [Not Secure] <Xautral> de mazo
+[00:02:47] [Async Chat Thread - #151/INFO]: [Not Secure] <Xautral> creeme que si es util
+[00:02:52] [Async Chat Thread - #151/INFO]: [Not Secure] <zTeiszch> yy bld
+[00:02:56] [Async Chat Thread - #151/INFO]: [Not Secure] <zTeiszch> quien va a conseguir mazo
+[00:03:01] [Async Chat Thread - #151/INFO]: [Not Secure] <Xautral> tu
+[00:03:04] [Async Chat Thread - #151/INFO]: [Not Secure] <zTeiszch> osea si
+[00:03:08] [Async Chat Thread - #151/INFO]: [Not Secure] <zTeiszch> pero hay q avanzar demasiado
+[00:03:11] [Async Chat Thread - #151/INFO]: [Not Secure] <Xautral> no
+[00:03:12] [Async Chat Thread - #151/INFO]: [Not Secure] <Xautral> ya lo quite
+[00:03:14] [Server thread/INFO]: Xautral issued server command: /tag @a remove medcivil
+[00:03:14] [Server thread/INFO]: [Xautral×: Removed tag 'medcivil' from 3 entities]
+[00:03:15] [Async Chat Thread - #151/INFO]: [Not Secure] <zTeiszch> apoco
+[00:03:17] [Async Chat Thread - #151/INFO]: [Not Secure] <Xautral> si
+[00:03:22] [Async Chat Thread - #151/INFO]: [Not Secure] <zTeiszch> osea
+[00:03:24] [Async Chat Thread - #151/INFO]: [Not Secure] <zTeiszch> en este momento
+[00:03:27] [Async Chat Thread - #151/INFO]: [Not Secure] <zTeiszch> puedo conseguir?
+[00:03:46] [Async Chat Thread - #151/INFO]: [Not Secure] <Xautral> si
+[00:03:53] [Async Chat Thread - #151/INFO]: [Not Secure] <zTeiszch> uu
+[00:03:58] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[00:03:58] [Server thread/INFO]: [blime2009÷: Set own game mode to Creative Mode]
+[00:04:21] [Server thread/INFO]: Xautral issued server command: /gamemode survival blime2009
+[00:04:21] [Server thread/INFO]: [Xautral×: Set blime2009÷'s game mode to Survival Mode]
+[00:04:24] [Async Chat Thread - #151/INFO]: [Not Secure] <zTeiszch> termino lo q ando haciendo y me voy a conseguir
+[00:04:51] [Server thread/INFO]: [Xautral×: Set own game mode to Creative Mode]
+[00:05:28] [Server thread/INFO]: Xautral issued server command: /tick rate
+[00:05:30] [Server thread/INFO]: Xautral issued server command: /tick rate 20a
+[00:05:31] [Server thread/INFO]: Xautral issued server command: /tick rate 20
+[00:05:31] [Server thread/INFO]: [Xautral×: Set the target tick rate to 20.0 per second]
+[00:05:31] [Server thread/INFO]: [Xautral×: Set own game mode to Survival Mode]
+[00:05:42] [Server thread/INFO]: [Not Secure] [@] blime2009÷ ha detenido el Tiempo
+[00:05:47] [Server thread/INFO]: Xautral issued server command: /gamemode creative blime2009
+[00:05:47] [Server thread/INFO]: [Xautral×: Set blime2009÷'s game mode to Creative Mode]
+[00:05:51] [Server thread/INFO]: Xautral issued server command: /gamemode survival blime2009
+[00:05:51] [Server thread/INFO]: [Xautral×: Set blime2009÷'s game mode to Survival Mode]
+[00:06:09] [Server thread/INFO]: zTeiszch lost connection: Disconnected
+[00:06:09] [Server thread/INFO]: [Azrakhaelit Dominion] zTeiszch left the game
+[00:06:33] [Server thread/INFO]: [Not Secure] [@] Xautral× ha detenido el Tiempo
+[00:06:38] [User Authenticator #38/INFO]: UUID of player Javadroker_MC is d4b5246f-7ded-33b5-9330-4be467263585
+[00:06:39] [Server thread/INFO]: Javadroker_MC joined the game
+[00:06:39] [Server thread/INFO]: Javadroker_MC[/127.79.104.38:37361] logged in with entity id 119199 at ([world]2.5, 83.0, 8.5)
+[00:06:53] [Server thread/INFO]: blime2009 issued server command: /tp Javadroker_MC
+[00:06:53] [Server thread/INFO]: [blime2009÷: Teleported blime2009÷ to Javadroker_MC]
+[00:06:59] [Server thread/INFO]: Javadroker_MC issued server command: /skin
+[00:07:03] [Server thread/INFO]: Javadroker_MC issued server command: /skin Satoru_gojo
+[00:07:03] [Server thread/INFO]: Xautral issued server command: /tp @a Xautral
+[00:07:03] [Server thread/INFO]: [Xautral×: Teleported 3 entities to Xautral×]
+[00:07:04] [Server thread/INFO]: [Xautral×: Set own game mode to Creative Mode]
+[00:07:08] [Server thread/INFO]: Xautral issued server command: /op Javadroker_MC
+[00:07:08] [Server thread/INFO]: [Xautral×: Made Javadroker_MC a server operator]
+[00:07:08] [Server thread/INFO]: Javadroker_MC issued server command: /skin Satoru_gojo
+[00:07:14] [Server thread/INFO]: Xautral issued server command: /team join times j
+[00:07:14] [Server thread/INFO]: [Xautral×: Added j to team [times]]
+[00:07:15] [Server thread/INFO]: Javadroker_MC issued server command: /skin gojo_satoru
+[00:07:15] [Server thread/INFO]: Xautral issued server command: /team join times Javadroker_MC
+[00:07:15] [Server thread/INFO]: [Xautral×: Added Javadroker_MC× to team [times]]
+[00:07:16] [Server thread/INFO]: blime2009 issued server command: /clear blime2009
+[00:07:16] [Server thread/INFO]: [blime2009÷: Removed 338 item(s) from player blime2009÷]
+[00:07:20] [Server thread/INFO]: [Xautral×: Set own game mode to Survival Mode]
+[00:07:30] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[00:07:30] [Server thread/INFO]: [blime2009÷: Set own game mode to Creative Mode]
+[00:07:39] [Server thread/INFO]: Javadroker_MC× was slain by Xautral×
+[00:07:42] [Server thread/INFO]: Xautral issued server command: /tp Javadroker_MC Xautral
+[00:07:42] [Server thread/INFO]: [Xautral×: Teleported Javadroker_MC× to Xautral×]
+[00:07:49] [Async Chat Thread - #154/INFO]: [Not Secure] <blime2009> xautral favoritismo
+[00:07:52] [Server thread/INFO]: Xautral issued server command: /gamemode survival blime2009
+[00:07:52] [Server thread/INFO]: [Xautral×: Set blime2009÷'s game mode to Survival Mode]
+[00:07:53] [Server thread/INFO]: blime2009÷ fell from a high place
+[00:07:59] [Server thread/INFO]: Xautral issued server command: /tp blime2009 Xautral
+[00:07:59] [Server thread/INFO]: [Xautral×: Teleported blime2009÷ to Xautral×]
+[00:08:01] [Server thread/INFO]: [Javadroker_MC×: Set own game mode to Creative Mode]
+[00:08:08] [Server thread/INFO]: [Not Secure] [@] Xautral× ha detenido el Tiempo
+[00:08:15] [Server thread/INFO]: [Javadroker_MC×: Set own game mode to Survival Mode]
+[00:08:28] [Server thread/INFO]: [Javadroker_MC×: Set own game mode to Creative Mode]
+[00:08:28] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[00:08:28] [Server thread/INFO]: [blime2009÷: Set own game mode to Creative Mode]
+[00:08:33] [Server thread/INFO]: [Xautral×: Set own game mode to Creative Mode]
+[00:08:35] [Server thread/INFO]: [Javadroker_MC×: Set own game mode to Survival Mode]
+[00:08:40] [Server thread/INFO]: Javadroker_MC× has completed the challenge [Cover Me in Debris]
+[00:08:41] [Server thread/INFO]: Javadroker_MC× has reached the goal [Sky's the Limit]
+[00:08:54] [Server thread/INFO]: Xautral issued server command: /inv j
+[00:08:59] [Server thread/INFO]: Xautral issued server command: /inv j
+[00:09:03] [Server thread/INFO]: Xautral issued server command: /inv j
+[00:09:08] [Server thread/INFO]: Xautral issued server command: /inv j
+[00:09:11] [Server thread/INFO]: [Xautral×: Set own game mode to Survival Mode]
+[00:09:16] [Server thread/INFO]: Xautral issued server command: /ie unbreakable true
+[00:10:00] [Server thread/INFO]: [Not Secure] [@] Xautral× ha detenido el Tiempo
+[00:10:19] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[00:10:28] [Server thread/INFO]: Xautral issued server command: /tick rate 20
+[00:10:28] [Server thread/INFO]: [Xautral×: Set the target tick rate to 20.0 per second]
+[00:10:44] [Server thread/INFO]: Javadroker_MC× was smashed by Xautral×
+[00:10:58] [Server thread/INFO]: blime2009 issued server command: /tp Xautral
+[00:10:58] [Server thread/INFO]: [blime2009÷: Teleported blime2009÷ to Xautral×]
+[00:11:01] [Server thread/INFO]: Javadroker_MC× fell from a high place
+[00:11:02] [Server thread/INFO]: Xautral issued server command: /tp Javadroker_MC
+[00:11:02] [Server thread/INFO]: [Xautral×: Teleported Xautral× to Javadroker_MC×]
+[00:11:04] [Server thread/INFO]: blime2009 issued server command: /tp Javadroker_MC
+[00:11:04] [Server thread/INFO]: [blime2009÷: Teleported blime2009÷ to Javadroker_MC×]
+[00:11:20] [Server thread/INFO]: [Not Secure] [@] Xautral× ha detenido el Tiempo
+[00:11:38] [Server thread/WARN]: Xautral moved wrongly!
+[00:11:46] [Server thread/INFO]: Javadroker_MC× was blown up by Xicontecatl's Power
+[00:11:58] [Server thread/INFO]: Javadroker_MC× fell from a high place
+[00:13:09] [Server thread/INFO]: [Not Secure] [@] Xautral× ha detenido el Tiempo
+[00:13:11] [Server thread/INFO]: [Not Secure] [@] Javadroker_MC× ha detenido el Tiempo
+[00:13:37] [Server thread/WARN]: Javadroker_MC moved wrongly!
+[00:13:38] [Server thread/INFO]: Xautral issued server command: /tick rate 20
+[00:13:38] [Server thread/INFO]: [Xautral×: Set the target tick rate to 20.0 per second]
+[00:13:49] [Server thread/INFO]: [Not Secure] [@] Javadroker_MC× ha detenido el Tiempo
+[00:14:12] [Server thread/INFO]: Xautral issued server command: /tick rate 20
+[00:14:12] [Server thread/INFO]: [Xautral×: Set the target tick rate to 20.0 per second]
+[00:14:13] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[00:14:13] [Server thread/INFO]: [Xautral×: Teleported Xautral× to 0.500000, 0.000000, 0.500000]
+[00:14:13] [Server thread/INFO]: [Xautral×: Set own game mode to Creative Mode]
+[00:14:34] [Server thread/INFO]: Xautral issued server command: /tp Javadroker_MC
+[00:14:34] [Server thread/INFO]: [Xautral×: Teleported Xautral× to Javadroker_MC×]
+[00:14:35] [Server thread/INFO]: [Xautral×: Set own game mode to Survival Mode]
+[00:14:37] [Server thread/INFO]: [Xautral×: Set own game mode to Creative Mode]
+[00:14:42] [Server thread/INFO]: [Javadroker_MC×: Set own game mode to Creative Mode]
+[00:14:46] [Server thread/INFO]: [Xautral×: Set own game mode to Survival Mode]
+[00:14:49] [Server thread/INFO]: [Javadroker_MC×: Set own game mode to Survival Mode]
+[00:15:03] [Server thread/INFO]: [Not Secure] [@] Xautral× ha detenido el Tiempo
+[00:15:06] [Server thread/WARN]: Xautral moved wrongly!
+[00:15:07] [Server thread/WARN]: Xautral moved wrongly!
+[00:15:07] [Server thread/WARN]: Xautral moved wrongly!
+[00:15:08] [Server thread/WARN]: Xautral moved wrongly!
+[00:15:08] [Server thread/WARN]: Xautral moved wrongly!
+[00:15:08] [Server thread/WARN]: Xautral moved wrongly!
+[00:15:09] [Server thread/WARN]: Xautral moved wrongly!
+[00:15:10] [Server thread/INFO]: blime2009 issued server command: /inv Xautral
+[00:15:18] [Server thread/INFO]: blime2009÷ has reached the goal [Sky's the Limit]
+[00:15:18] [Server thread/INFO]: [Not Secure] [@] Javadroker_MC× ha detenido el Tiempo
+[00:15:21] [Server thread/INFO]: blime2009÷ has completed the challenge [Cover Me in Debris]
+[00:15:36] [Server thread/INFO]: Xautral issued server command: /gamemode survival @a
+[00:15:36] [Server thread/INFO]: [Xautral×: Set blime2009÷'s game mode to Survival Mode]
+[00:15:48] [Server thread/INFO]: [Not Secure] [@] Javadroker_MC× ha detenido el Tiempo
+[00:16:13] [Server thread/INFO]: Xautral issued server command: /tick rate 20
+[00:16:13] [Server thread/INFO]: [Xautral×: Set the target tick rate to 20.0 per second]
+[00:16:16] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[00:16:16] [Server thread/INFO]: [Xautral×: Teleported Xautral× to 0.500000, 0.000000, 0.500000]
+[00:16:16] [Server thread/INFO]: [Xautral×: Set own game mode to Creative Mode]
+[00:16:17] [Server thread/INFO]: [Not Secure] [@] Javadroker_MC× ha detenido el Tiempo
+[00:16:21] [Server thread/INFO]: Xautral issued server command: /tp Javadroker_MC
+[00:16:21] [Server thread/INFO]: [Xautral×: Teleported Xautral× to Javadroker_MC×]
+[00:16:21] [Server thread/INFO]: [Xautral×: Set own game mode to Survival Mode]
+[00:16:43] [Server thread/WARN]: Xautral moved wrongly!
+[00:16:45] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[00:16:45] [Server thread/INFO]: [Xautral×: Teleported Xautral× to 0.500000, 0.000000, 0.500000]
+[00:16:47] [Server thread/INFO]: Xautral issued server command: /tick rate 20
+[00:16:47] [Server thread/INFO]: [Xautral×: Set the target tick rate to 20.0 per second]
+[00:16:50] [Server thread/INFO]: [Xautral×: Set own game mode to Creative Mode]
+[00:16:54] [Server thread/INFO]: Javadroker_MC× was doomed to fall by Xicontecatl's Power
+[00:17:05] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[00:17:05] [Server thread/INFO]: [blime2009÷: Set own game mode to Creative Mode]
+[00:17:10] [Server thread/INFO]: Xautral issued server command: /tp Javadroker_MC
+[00:17:10] [Server thread/INFO]: [Xautral×: Teleported Xautral× to Javadroker_MC×]
+[00:17:11] [Server thread/INFO]: [Xautral×: Set own game mode to Survival Mode]
+[00:17:16] [Server thread/INFO]: [Javadroker_MC×: Set own game mode to Creative Mode]
+[00:17:20] [Server thread/INFO]: Javadroker_MC issued server command: /clear
+[00:17:20] [Server thread/INFO]: [Javadroker_MC×: Removed 148 item(s) from player Javadroker_MC×]
+[00:17:30] [Server thread/WARN]: Xautral moved wrongly!
+[00:17:50] [Server thread/INFO]: Xautral issued server command: /gamemode survival blime2009
+[00:17:50] [Server thread/INFO]: [Xautral×: Set blime2009÷'s game mode to Survival Mode]
+[00:17:56] [Server thread/INFO]: [Not Secure] [@] Xautral× ha detenido el Tiempo
+[00:18:20] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[00:18:20] [Server thread/INFO]: [Xautral×: Teleported Xautral× to 0.500000, 0.000000, 0.500000]
+[00:18:22] [Server thread/INFO]: Xautral issued server command: /tick rate 20
+[00:18:22] [Server thread/INFO]: [Xautral×: Set the target tick rate to 20.0 per second]
+[00:18:24] [Server thread/INFO]: [Xautral×: Set own game mode to Creative Mode]
+[00:18:38] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[00:18:38] [Server thread/INFO]: [blime2009÷: Set own game mode to Creative Mode]
+[00:18:44] [Server thread/INFO]: Xautral issued server command: /tp Javadroker_MC
+[00:18:44] [Server thread/INFO]: [Xautral×: Teleported Xautral× to Javadroker_MC×]
+[00:18:45] [Server thread/INFO]: [Xautral×: Set own game mode to Survival Mode]
+[00:18:47] [Server thread/INFO]: blime2009 issued server command: /gamemode survival
+[00:18:47] [Server thread/INFO]: [blime2009÷: Set own game mode to Survival Mode]
+[00:18:51] [Server thread/INFO]: Xautral× was slain by blime2009÷
+[00:18:54] [Server thread/INFO]: Xautral issued server command: /tp blime2009
+[00:18:54] [Server thread/INFO]: [Xautral×: Teleported Xautral× to blime2009÷]
+[00:19:46] [Server thread/INFO]: [Not Secure] [@] Xautral× ha detenido el Tiempo
+[00:19:57] [Server thread/WARN]: Xautral moved wrongly!
+[00:20:09] [Server thread/INFO]: [Not Secure] [@] blime2009÷ ha detenido el Tiempo
+[00:20:50] [Server thread/INFO]: Xautral issued server command: /tps
+[00:20:55] [Server thread/INFO]: [Not Secure] [@] blime2009÷ ha detenido el Tiempo
+[00:21:07] [Server thread/WARN]: Xautral moved wrongly!
+[00:21:08] [Server thread/WARN]: blime2009 moved wrongly!
+[00:21:15] [Server thread/WARN]: blime2009 moved wrongly!
+[00:21:55] [Server thread/INFO]: [Not Secure] [@] Xautral× ha detenido el Tiempo
+[00:22:30] [Server thread/WARN]: blime2009 moved wrongly!
+[00:22:35] [Server thread/WARN]: blime2009 moved wrongly!
+[00:23:15] [Async Chat Thread - #164/INFO]: [Not Secure] <Xautral> AFK
+[00:23:17] [Server thread/INFO]: [Xautral×: Set own game mode to Creative Mode]
+[00:23:32] [Async Chat Thread - #164/INFO]: [Not Secure] <Xautral> desafk
+[00:23:32] [Server thread/INFO]: [Xautral×: Set own game mode to Survival Mode]
+[00:23:41] [Server thread/WARN]: Xautral moved wrongly!
+[00:23:48] [Server thread/WARN]: Xautral moved wrongly!
+[00:23:55] [Server thread/WARN]: Xautral moved wrongly!
+[00:24:16] [Server thread/INFO]: Xautral issued server command: /summon minecraft:end_crystal
+[00:24:16] [Server thread/INFO]: [Xautral×: Summoned new End Crystal]
+[00:24:16] [Server thread/INFO]: Xautral issued server command: /summon minecraft:end_crystal
+[00:24:16] [Server thread/INFO]: [Xautral×: Summoned new End Crystal]
+[00:24:16] [Server thread/INFO]: Xautral issued server command: /summon minecraft:end_crystal
+[00:24:16] [Server thread/INFO]: [Xautral×: Summoned new End Crystal]
+[00:24:17] [Server thread/INFO]: Xautral× was blown up by blime2009÷
+[00:24:19] [Server thread/INFO]: Xautral issued server command: /tp blime2009
+[00:24:19] [Server thread/INFO]: [Xautral×: Teleported Xautral× to blime2009÷]
+[00:24:19] [Server thread/INFO]: [Javadroker_MC×: Set own game mode to Survival Mode]
+[00:24:20] [Server thread/INFO]: [Not Secure] [@] Xautral× ha detenido el Tiempo
+[00:24:24] [Server thread/INFO]: [Xautral×: Set own game mode to Creative Mode]
+[00:24:27] [Server thread/INFO]: [Xautral×: Set own game mode to Survival Mode]
+[00:24:32] [Server thread/INFO]: [Xautral×: Set own game mode to Creative Mode]
+[00:24:45] [Server thread/INFO]: Xautral issued server command: /enchant Xautral minecraft:power 5
+[00:24:45] [Server thread/INFO]: [Xautral×: Applied enchantment Power V to Xautral×'s item]
+[00:24:49] [Server thread/INFO]: Xautral issued server command: /enchant Xautral minecraft:punch 5
+[00:24:51] [Server thread/INFO]: Xautral issued server command: /enchant Xautral minecraft:punch 2
+[00:24:51] [Server thread/INFO]: [Xautral×: Applied enchantment Punch II to Xautral×'s item]
+[00:24:55] [Server thread/INFO]: Xautral issued server command: /enchant Xautral minecraft:flame
+[00:24:55] [Server thread/INFO]: [Xautral×: Applied enchantment Flame to Xautral×'s item]
+[00:25:02] [Server thread/INFO]: Javadroker_MC issued server command: /inv blime2009
+[00:25:09] [Server thread/INFO]: Javadroker_MC issued server command: /inv
+[00:25:10] [Server thread/INFO]: [Xautral×: Set own game mode to Survival Mode]
+[00:25:15] [Server thread/WARN]: Xautral moved wrongly!
+[00:25:18] [Server thread/INFO]: Xautral× has made the advancement [Take Aim]
+[00:25:18] [Server thread/INFO]: Javadroker_MC× was shot by Xautral×
+[00:25:22] [Server thread/INFO]: [Javadroker_MC×: Set own game mode to Creative Mode]
+[00:25:44] [Server thread/INFO]: [Not Secure] [@] Xautral× ha detenido el Tiempo
+[00:25:49] [Server thread/INFO]: [Javadroker_MC×: Set own game mode to Survival Mode]
+[00:26:23] [Server thread/INFO]: Javadroker_MC× fell from a high place
+[00:26:25] [Server thread/INFO]: [Javadroker_MC×: Set own game mode to Creative Mode]
+[00:26:31] [Server thread/INFO]: [Javadroker_MC×: Set own game mode to Survival Mode]
+[00:26:35] [Server thread/INFO]: Javadroker_MC× was shot by Xautral×
+[00:26:39] [Server thread/INFO]: [Javadroker_MC×: Set own game mode to Creative Mode]
+[00:27:15] [Server thread/INFO]: blime2009 issued server command: /kill blime2009
+[00:27:15] [Server thread/INFO]: blime2009÷ was killed while fighting Xautral×
+[00:27:15] [Server thread/INFO]: [blime2009÷: Killed blime2009÷]
+[00:27:20] [Server thread/INFO]: Xautral issued server command: /weather clear
+[00:27:20] [Server thread/INFO]: [Xautral×: Set the weather to clear]
+[00:27:20] [Server thread/INFO]: blime2009 issued server command: /clear blime2009
+[00:27:20] [Server thread/INFO]: [blime2009÷: Removed 1001 item(s) from player blime2009÷]
+[00:27:22] [Server thread/INFO]: Javadroker_MC issued server command: /attribute @s minecraft:scale base set 10
+[00:27:22] [Server thread/INFO]: Xautral issued server command: /time set 0t
+[00:27:22] [Server thread/INFO]: [Xautral×: Set the time to 0]
+[00:27:22] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[00:27:22] [Server thread/INFO]: [blime2009÷: Set own game mode to Creative Mode]
+[00:27:36] [Server thread/INFO]: blime2009 issued server command: /tp 0 0 00
+[00:27:36] [Server thread/INFO]: [blime2009÷: Teleported blime2009÷ to 0.500000, 0.000000, 0.500000]
+[00:27:40] [Server thread/INFO]: [Javadroker_MC×: Set own game mode to Survival Mode]
+[00:27:49] [Server thread/INFO]: Javadroker_MC issued server command: /attribute @s minecraft:scale base set 1
+[00:27:51] [Server thread/INFO]: Javadroker_MC× was doomed to fall by Xautral×
+[00:27:56] [Server thread/INFO]: Javadroker_MC issued server command: /attribute @s minecraft:scale base set 2
+[00:27:57] [Server thread/INFO]: [Javadroker_MC×: Set own game mode to Creative Mode]
+[00:28:10] [Server thread/INFO]: blime2009 issued server command: /give blime2009 minecraft:structure_block
+[00:28:10] [Server thread/INFO]: [blime2009÷: Gave 1 [Structure Block] to blime2009÷]
+[00:28:21] [Server thread/INFO]: Xautral issued server command: /tp Javadroker_MC
+[00:28:21] [Server thread/INFO]: [Xautral×: Teleported Xautral× to Javadroker_MC×]
+[00:28:23] [Server thread/INFO]: Villager Villager['Villager'/121867, uuid='52613b36-467f-49ff-b45c-1aa282591699', l='ServerLevel[world]', x=-40.57, y=32.00, z=-73.14, cpos=[-3, -5], tl=34, v=true] died, message: 'Villager hit the ground too hard'
+[00:28:32] [Server thread/INFO]: [Javadroker_MC×: Set own game mode to Survival Mode]
+[00:28:36] [Server thread/INFO]: Xautral issued server command: /tp Javadroker_MC
+[00:28:36] [Server thread/INFO]: [Xautral×: Teleported Xautral× to Javadroker_MC×]
+[00:28:37] [Server thread/INFO]: [Not Secure] [@] Xautral× ha detenido el Tiempo
+[00:28:46] [Server thread/INFO]: [Javadroker_MC×: Set own game mode to Creative Mode]
+[00:28:50] [Server thread/INFO]: [Javadroker_MC×: Set own game mode to Spectator Mode]
+[00:28:52] [Server thread/INFO]: [Javadroker_MC×: Set own game mode to Survival Mode]
+[00:28:54] [Server thread/WARN]: Xautral moved wrongly!
+[00:29:01] [Server thread/INFO]: [Not Secure] [@] Xautral× ha detenido el Tiempo
+[00:29:10] [Server thread/INFO]: Javadroker_MC× was smashed by Xautral×
+[00:29:16] [Server thread/INFO]: Javadroker_MC issued server command: /attribute @s minecraft:scale base set º1
+[00:29:19] [Server thread/INFO]: Javadroker_MC issued server command: /attribute @s minecraft:scale base set 1
+[00:29:19] [Server thread/INFO]: Villager Villager['Villager'/121889, uuid='3955155e-7841-4a5b-91fd-f7922c1aac03', l='ServerLevel[world]', x=-52.85, y=26.69, z=-91.26, cpos=[-4, -6], tl=483, v=true] died, message: 'Villager was impaled on a stalagmite'
+[00:29:20] [Server thread/INFO]: Villager Villager['Villager'/121890, uuid='b10a2f02-d429-478b-8be9-288b34e499d9', l='ServerLevel[world]', x=-38.09, y=21.00, z=-86.56, cpos=[-3, -6], tl=484, v=true] died, message: 'Villager hit the ground too hard'
+[00:29:22] [Server thread/INFO]: [Javadroker_MC×: Set own game mode to Spectator Mode]
+[00:29:32] [Server thread/INFO]: Javadroker_MC issued server command: /effect give Javadroker_MC minecraft:strength infinite 255
+[00:29:32] [Server thread/INFO]: [Javadroker_MC×: Applied effect Strength to Javadroker_MC×]
+[00:29:33] [Server thread/INFO]: [Javadroker_MC×: Set own game mode to Survival Mode]
+[00:29:36] [Server thread/INFO]: Xautral× was slain by Javadroker_MC×
+[00:29:38] [Server thread/INFO]: Xautral issued server command: /tp Javadroker_MC
+[00:29:38] [Server thread/INFO]: [Xautral×: Teleported Xautral× to Javadroker_MC×]
+[00:29:40] [Server thread/INFO]: [Xautral×: Set own game mode to Creative Mode]
+[00:29:44] [Server thread/INFO]: Xautral issued server command: /ie maxstacksize 99
+[00:29:50] [Server thread/INFO]: [Xautral×: Set own game mode to Survival Mode]
+[00:30:00] [Server thread/INFO]: Villager Villager['Villager'/121885, uuid='10df6cc6-c244-4aee-baca-a200ca81f280', l='ServerLevel[world]', x=-34.00, y=68.00, z=-70.94, cpos=[-3, -5], tl=1283, v=true] died, message: 'Villager was slain by Javadroker_MC×'
+[00:30:09] [Server thread/INFO]: [Not Secure] [@] Xautral× ha detenido el Tiempo
+[00:30:22] [Server thread/WARN]: Xautral moved wrongly!
+[00:30:32] [Async Chat Thread - #167/INFO]: [Not Secure] <Xautral> oigan
+[00:30:34] [Async Chat Thread - #167/INFO]: [Not Secure] <Xautral> ya voy a coemr
+[00:30:36] [Async Chat Thread - #167/INFO]: [Not Secure] <Xautral> ahoriat prendo
+[00:30:38] [Async Chat Thread - #167/INFO]: [Not Secure] <Xautral> btye
+[00:30:41] [Server thread/INFO]: Xautral issued server command: /stop
+[00:30:41] [Server thread/INFO]: [Xautral×: Stopping the server]
+[00:30:41] [Server thread/INFO]: Stopping server
+[00:30:41] [Server thread/INFO]: [OpenInv] Disabling OpenInv v5.3.0
+[00:30:41] [Server thread/INFO]: [ItemEdit] Disabling ItemEdit v3.7.8
+[00:30:41] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v2.26.0
+[00:30:41] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.11.0
+[00:30:41] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.1
+[00:30:41] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[00:30:41] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[00:30:41] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.7.2
+[00:30:41] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.7.2
+[00:30:41] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[00:30:41] [Server thread/INFO]: Saving players
+[00:30:41] [Server thread/INFO]: blime2009 lost connection: Server closed
+[00:30:41] [Server thread/INFO]: blime2009 left the game
+[00:30:41] [Server thread/INFO]: Javadroker_MC lost connection: Server closed
+[00:30:41] [Server thread/INFO]: Javadroker_MC left the game
+[00:30:41] [Server thread/INFO]: Xautral lost connection: Server closed
+[00:30:41] [Server thread/INFO]: Xautral left the game
+[00:30:41] [Server thread/INFO]: Saving worlds
+[00:30:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:30:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[00:30:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[00:30:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[00:30:42] [Server thread/INFO]: [ChunkHolderManager] Saved 80 block chunks, 293 entity chunks, 2 poi chunks in world 'world' in 0.28s
+[00:30:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[00:30:42] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[00:30:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:30:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[00:30:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[00:30:42] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[00:30:42] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[00:30:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[00:30:42] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[00:30:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:30:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[00:30:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[00:30:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[00:30:43] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[00:30:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[00:30:43] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[00:30:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:30:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:30:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:30:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:30:43] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[00:30:43] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[00:30:43] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[00:30:43] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...

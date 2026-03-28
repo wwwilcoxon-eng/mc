@@ -1,0 +1,635 @@
+# This file is not intended to be manually modified! If you want to manually edit this file anyway, ensure that the server is not running currently and that you have prepared a backup of this file.
+
+data-version: 4|2|4671
+'1':
+  uniqueId: 77cdf0b2-2c18-4d4d-8807-13c5a58d346a
+  world: world
+  x: -1441
+  y: 82
+  z: 1525
+  yaw: 199.30443
+  type: admin
+  open: true
+  name: Templor
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:taiga
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:field_masoned_banner_pattern
+        count: 1
+        components:
+          minecraft:custom_name: '{extra:[{bold:1b,color:"dark_aqua",text:"Casa"}],text:""}'
+      item1:
+        DataVersion: 4671
+        id: minecraft:raw_gold
+        count: 64
+      item2:
+        DataVersion: 4671
+        id: minecraft:raw_copper
+        count: 32
+    '2':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:globe_banner_pattern
+        count: 1
+        components:
+          minecraft:custom_name: '{bold:1b,color:"blue",italic:0b,text:"Cuartel",underlined:1b}'
+      item1:
+        DataVersion: 4671
+        id: minecraft:resin_clump
+        count: 8
+      item2:
+        DataVersion: 4671
+        id: minecraft:emerald
+        count: 32
+    '3':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:mojang_banner_pattern
+        count: 1
+        components:
+          minecraft:custom_name: '{bold:1b,color:"dark_green",italic:1b,text:"Mercado",underlined:0b}'
+      item1:
+        DataVersion: 4671
+        id: minecraft:raw_gold
+        count: 64
+      item2:
+        DataVersion: 4671
+        id: minecraft:emerald
+        count: 64
+    '4':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:flow_banner_pattern
+        count: 1
+        components:
+          minecraft:custom_name: '{bold:0b,color:"red",italic:0b,text:"Templo",underlined:1b}'
+      item1:
+        DataVersion: 4671
+        id: minecraft:lapis_lazuli
+        count: 64
+      item2:
+        DataVersion: 4671
+        id: minecraft:emerald
+        count: 64
+    '5':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:paper
+        count: 1
+        components:
+          minecraft:lore: '[{extra:[{bold:0b,color:"dark_aqua",italic:0b,obfuscated:0b,strikethrough:0b,text:"Pasas
+            de: ",underlined:0b},{color:"yellow",italic:0b,text:"Edad Antigua"},{color:"dark_aqua",italic:0b,text:"
+            a "},{bold:1b,color:"dark_aqua",italic:0b,text:"Edad Media"}],text:""}]'
+          minecraft:glider: '{}'
+          minecraft:enchantment_glint_override: 1b
+          minecraft:custom_name: '{extra:[{bold:0b,color:"gray",italic:0b,obfuscated:0b,strikethrough:0b,text:"Ticket
+            de: ",underlined:0b},{bold:1b,color:"gray",italic:0b,obfuscated:0b,strikethrough:0b,text:"Edad
+            Media",underlined:0b}],text:""}'
+      item1:
+        DataVersion: 4671
+        id: minecraft:lapis_lazuli
+        count: 64
+      item2:
+        DataVersion: 4671
+        id: minecraft:prismarine_shard
+        count: 64
+    '6':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:turtle_scute
+        count: 1
+        components:
+          minecraft:lore: '[{extra:[{bold:0b,color:"light_purple",italic:0b,obfuscated:0b,strikethrough:0b,text:"Canjealo
+            con un Admin",underlined:0b}],text:""}]'
+          minecraft:custom_name: '{extra:[{bold:0b,color:"dark_red",italic:0b,obfuscated:0b,strikethrough:0b,text:"Mejora
+            de Templor",underlined:0b}],text:""}'
+      item1:
+        DataVersion: 4671
+        id: minecraft:echo_shard
+        count: 24
+      item2:
+        DataVersion: 4671
+        id: minecraft:dried_kelp
+        count: 64
+  snapshots: []
+'2':
+  uniqueId: f80f74c1-cfcf-40d8-af03-9a343fcfa02c
+  world: world
+  x: -1197
+  y: 76
+  z: 3185
+  yaw: 265.7631
+  type: admin
+  open: true
+  name: Templor
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:jungle
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:field_masoned_banner_pattern
+        count: 1
+        components:
+          minecraft:custom_name: '{extra:[{bold:1b,color:"dark_aqua",text:"Casa"}],text:""}'
+      item1:
+        DataVersion: 4671
+        id: minecraft:oak_log
+        count: 64
+      item2:
+        DataVersion: 4671
+        id: minecraft:raw_copper
+        count: 16
+    '2':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:globe_banner_pattern
+        count: 1
+        components:
+          minecraft:custom_name: '{bold:1b,color:"blue",italic:0b,text:"Cuartel",underlined:1b}'
+      item1:
+        DataVersion: 4671
+        id: minecraft:oak_log
+        count: 64
+      item2:
+        DataVersion: 4671
+        id: minecraft:raw_iron
+        count: 32
+    '3':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:turtle_scute
+        count: 1
+        components:
+          minecraft:lore: '[{extra:[{bold:0b,color:"light_purple",italic:0b,obfuscated:0b,strikethrough:0b,text:"Canjealo
+            con un Admin",underlined:0b}],text:""}]'
+          minecraft:custom_name: '{extra:[{bold:0b,color:"dark_red",italic:0b,obfuscated:0b,strikethrough:0b,text:"Mejora
+            de Templor",underlined:0b}],text:""}'
+      item1:
+        DataVersion: 4671
+        id: minecraft:raw_copper
+        count: 48
+      item2:
+        DataVersion: 4671
+        id: minecraft:raw_iron
+        count: 64
+  snapshots: []
+'3':
+  uniqueId: e083c7d4-4340-4849-91ed-e1397d930371
+  world: world
+  x: -897
+  y: 65
+  z: -34
+  yaw: 236.30994
+  type: admin
+  open: true
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:savanna
+    villagerLevel: 2
+  recipes:
+    '1':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:creeper_banner_pattern
+        count: 1
+        components:
+          minecraft:lore: '[{extra:[{bold:0b,color:"yellow",italic:0b,obfuscated:0b,strikethrough:0b,text:"Canjealo
+            con un Admin",underlined:0b}],text:""}]'
+          minecraft:custom_name: '{extra:[{bold:0b,color:"gold",italic:0b,obfuscated:0b,strikethrough:0b,text:"Ticket
+            de Build: ",underlined:0b},{bold:1b,color:"gold",italic:0b,obfuscated:0b,strikethrough:0b,text:"Casa",underlined:0b}],text:""}'
+      item1:
+        DataVersion: 4671
+        id: minecraft:bone
+        count: 32
+      item2:
+        DataVersion: 4671
+        id: minecraft:oak_log
+        count: 64
+    '2':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:mojang_banner_pattern
+        count: 1
+        components:
+          minecraft:lore: '[{extra:[{bold:0b,color:"yellow",italic:0b,obfuscated:0b,strikethrough:0b,text:"Canjealo
+            con un Admin",underlined:0b}],text:""}]'
+          minecraft:custom_name: '{extra:[{bold:0b,color:"dark_purple",italic:0b,obfuscated:0b,strikethrough:0b,text:"Ticket
+            de Build: ",underlined:0b},{bold:1b,color:"dark_purple",italic:0b,obfuscated:0b,strikethrough:0b,text:"Cuartel",underlined:0b}],text:""}'
+      item1:
+        DataVersion: 4671
+        id: minecraft:stick
+        count: 64
+      item2:
+        DataVersion: 4671
+        id: minecraft:oak_log
+        count: 64
+    '3':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:turtle_scute
+        count: 1
+        components:
+          minecraft:lore: '[{extra:[{bold:0b,color:"light_purple",italic:0b,obfuscated:0b,strikethrough:0b,text:"Canjealo
+            con un Admin",underlined:0b}],text:""}]'
+          minecraft:custom_name: '{extra:[{bold:0b,color:"dark_red",italic:0b,obfuscated:0b,strikethrough:0b,text:"Mejora
+            de Templor",underlined:0b}],text:""}'
+      item1:
+        DataVersion: 4671
+        id: minecraft:mojang_banner_pattern
+        count: 1
+        components:
+          minecraft:lore: '[{extra:[{bold:0b,color:"yellow",italic:0b,obfuscated:0b,strikethrough:0b,text:"Canjealo
+            con un Admin",underlined:0b}],text:""}]'
+          minecraft:custom_name: '{extra:[{bold:0b,color:"dark_purple",italic:0b,obfuscated:0b,strikethrough:0b,text:"Ticket
+            de Build: ",underlined:0b},{bold:1b,color:"dark_purple",italic:0b,obfuscated:0b,strikethrough:0b,text:"Cuartel",underlined:0b}],text:""}'
+      item2:
+        DataVersion: 4671
+        id: minecraft:emerald
+        count: 24
+  snapshots: []
+'4':
+  uniqueId: afd4c5ae-c163-4d84-bf35-08b94908df6a
+  world: world
+  x: 341
+  y: 65
+  z: -1633
+  yaw: 45.62597
+  type: admin
+  open: true
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:snow
+    villagerLevel: 3
+  recipes:
+    '1':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:creeper_banner_pattern
+        count: 1
+        components:
+          minecraft:lore: '[{extra:[{bold:0b,color:"yellow",italic:0b,obfuscated:0b,strikethrough:0b,text:"Canjealo
+            con un Admin",underlined:0b}],text:""}]'
+          minecraft:custom_name: '{extra:[{bold:0b,color:"gold",italic:0b,obfuscated:0b,strikethrough:0b,text:"Ticket
+            de Build: ",underlined:0b},{bold:1b,color:"gold",italic:0b,obfuscated:0b,strikethrough:0b,text:"Casa",underlined:0b}],text:""}'
+      item1:
+        DataVersion: 4671
+        id: minecraft:raw_gold
+        count: 64
+      item2:
+        DataVersion: 4671
+        id: minecraft:oak_log
+        count: 64
+    '2':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:mojang_banner_pattern
+        count: 1
+        components:
+          minecraft:lore: '[{extra:[{bold:0b,color:"yellow",italic:0b,obfuscated:0b,strikethrough:0b,text:"Canjealo
+            con un Admin",underlined:0b}],text:""}]'
+          minecraft:custom_name: '{extra:[{bold:0b,color:"dark_purple",italic:0b,obfuscated:0b,strikethrough:0b,text:"Ticket
+            de Build: ",underlined:0b},{bold:1b,color:"dark_purple",italic:0b,obfuscated:0b,strikethrough:0b,text:"Cuartel",underlined:0b}],text:""}'
+      item1:
+        DataVersion: 4671
+        id: minecraft:stick
+        count: 64
+      item2:
+        DataVersion: 4671
+        id: minecraft:raw_gold
+        count: 32
+    '3':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:skull_banner_pattern
+        count: 1
+        components:
+          minecraft:lore: '[{extra:[{bold:0b,color:"yellow",italic:0b,obfuscated:0b,strikethrough:0b,text:"Canjealo
+            con un Admin",underlined:0b}],text:""}]'
+          minecraft:custom_name: '{extra:[{bold:0b,color:"blue",italic:0b,obfuscated:0b,strikethrough:0b,text:"Ticket
+            de Build: ",underlined:0b},{bold:1b,color:"blue",italic:0b,obfuscated:0b,strikethrough:0b,text:"Galería
+            de Tiro con Arco",underlined:0b}],text:""}'
+      item1:
+        DataVersion: 4671
+        id: minecraft:raw_copper
+        count: 64
+      item2:
+        DataVersion: 4671
+        id: minecraft:raw_iron
+        count: 64
+    '4':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:turtle_scute
+        count: 1
+        components:
+          minecraft:lore: '[{extra:[{bold:0b,color:"light_purple",italic:0b,obfuscated:0b,strikethrough:0b,text:"Canjealo
+            con un Admin",underlined:0b}],text:""}]'
+          minecraft:custom_name: '{extra:[{bold:0b,color:"dark_red",italic:0b,obfuscated:0b,strikethrough:0b,text:"Mejora
+            de Templor",underlined:0b}],text:""}'
+      item1:
+        DataVersion: 4671
+        id: minecraft:emerald
+        count: 16
+      item2:
+        DataVersion: 4671
+        id: minecraft:mojang_banner_pattern
+        count: 1
+        components:
+          minecraft:lore: '[{extra:[{bold:0b,color:"yellow",italic:0b,obfuscated:0b,strikethrough:0b,text:"Canjealo
+            con un Admin",underlined:0b}],text:""}]'
+          minecraft:custom_name: '{extra:[{bold:0b,color:"dark_purple",italic:0b,obfuscated:0b,strikethrough:0b,text:"Ticket
+            de Build: ",underlined:0b},{bold:1b,color:"dark_purple",italic:0b,obfuscated:0b,strikethrough:0b,text:"Cuartel",underlined:0b}],text:""}'
+  snapshots: []
+'5':
+  uniqueId: 70237aec-c7f6-4991-a085-37cf758b8b2c
+  world: world
+  x: -894
+  y: 63
+  z: -49
+  yaw: 331.44962
+  type: admin
+  open: true
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:plains
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:skeleton_spawn_egg
+        count: 1
+        components:
+          minecraft:lore: '[{italic:0b,text:"Al invocarlo, patrulla la zona en un
+            radio de 10 x 10 en busca de invasores, no es tan efectivo pero en masa
+            si lo son. "}]'
+          minecraft:entity_data: '{CustomName:["Defensor Basic I"],CustomNameVisible:1b,Health:30,Team:"Kawesar",attributes:[{base:30.0f,id:"max_health"}],equipment:{chest:{id:"chainmail_chestplate"},feet:{id:"chainmail_boots"},head:{id:"player_head"},legs:{id:"chainmail_leggings"},mainhand:{id:"stone_sword"},offhand:{id:"totem_of_undying"}},home_pos:[-0.1d,-0.1d,-0.1d],home_radius:10,id:"minecraft:skeleton"}'
+          minecraft:custom_name: '{extra:[{bold:1b,color:"dark_red",text:"Invocador
+            de Defensor Básico I"}],text:""}'
+      item1:
+        DataVersion: 4671
+        id: minecraft:flint
+        count: 64
+      item2:
+        DataVersion: 4671
+        id: minecraft:infested_stone
+        count: 16
+  snapshots: []
+'6':
+  uniqueId: f0aeb198-727f-4b5f-a906-1d857bbdfe98
+  world: world
+  x: -1427
+  y: 83
+  z: 1546
+  yaw: 270.76602
+  type: admin
+  open: true
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:plains
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:villager_spawn_egg
+        count: 1
+        components:
+          minecraft:lore: '[{italic:0b,text:"-Totem X2"},{italic:0b,text:"-Iron Sword"},{italic:0b,text:"-Chainmail
+            Armor"},"",{color:"gray",italic:0b,text:"Invocador de Guerrero."},{extra:[{italic:0b,text:"
+            "},{color:"dark_gray",italic:0b,text:"LVL"},{color:"dark_gray",italic:0b,text:"."},{color:"dark_gray",italic:0b,text:"
+            "},{color:"dark_gray",italic:0b,text:"1"}],text:""}]'
+          minecraft:entity_data: '{Health:30,Tags:["combat"],VillagerData:{level:1,profession:"nitwit",type:"jungle"},attributes:[{base:30.0f,id:"max_health"}],equipment:{chest:{id:"chainmail_chestplate"},feet:{id:"chainmail_boots"},head:{id:"chainmail_helmet"},legs:{id:"chainmail_leggings"},offhand:{count:2,id:"totem_of_undying"}},id:"minecraft:villager"}'
+      item1:
+        DataVersion: 4671
+        id: minecraft:raw_iron
+        count: 32
+      item2:
+        DataVersion: 4671
+        id: minecraft:raw_gold
+        count: 32
+    '2':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:popped_chorus_fruit
+        count: 1
+        components:
+          minecraft:lore: '[{extra:["Canjea con un ",{bold:1b,text:"Admin"}],text:""}]'
+          minecraft:custom_name: '{extra:[{bold:1b,color:"blue",italic:0b,obfuscated:0b,strikethrough:0b,text:"Mejora
+            de ",underlined:0b},{bold:1b,color:"blue",italic:0b,obfuscated:0b,strikethrough:0b,text:"Cuartel",underlined:0b}],text:""}'
+      item1:
+        DataVersion: 4671
+        id: minecraft:emerald
+        count: 32
+      item2:
+        DataVersion: 4671
+        id: minecraft:lapis_lazuli
+        count: 32
+  snapshots: []
+'7':
+  uniqueId: 4a961e39-08fb-432e-aa45-dacf691fc743
+  world: world
+  x: -1439
+  y: 85
+  z: 1542
+  yaw: 45.0
+  type: admin
+  open: true
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:plains
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:gold_ingot
+        count: 2
+      item1:
+        DataVersion: 4671
+        id: minecraft:emerald
+        count: 1
+    '2':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:golden_carrot
+        count: 4
+      item1:
+        DataVersion: 4671
+        id: minecraft:gold_ingot
+        count: 1
+      item2:
+        DataVersion: 4671
+        id: minecraft:emerald
+        count: 1
+    '3':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:white_dye
+        count: 1
+        components:
+          minecraft:lore: '[{extra:["Canjealo con un Admin"],text:""}]'
+          minecraft:custom_name: '{extra:[{bold:1b,color:"dark_gray",italic:0b,obfuscated:0b,strikethrough:0b,text:"Mejora
+            de Mercado",underlined:0b}],text:""}'
+      item1:
+        DataVersion: 4671
+        id: minecraft:glowstone_dust
+        count: 64
+      item2:
+        DataVersion: 4671
+        id: minecraft:emerald
+        count: 32
+    '4':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:ender_eye
+        count: 4
+      item1:
+        DataVersion: 4671
+        id: minecraft:clay_ball
+        count: 64
+    '5':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:golden_apple
+        count: 1
+      item1:
+        DataVersion: 4671
+        id: minecraft:gold_ingot
+        count: 6
+      item2:
+        DataVersion: 4671
+        id: minecraft:emerald
+        count: 4
+    '6':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:enchanted_golden_apple
+        count: 1
+      item1:
+        DataVersion: 4671
+        id: minecraft:gold_ingot
+        count: 28
+      item2:
+        DataVersion: 4671
+        id: minecraft:emerald
+        count: 26
+    '7':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:ender_pearl
+        count: 4
+      item1:
+        DataVersion: 4671
+        id: minecraft:slime_ball
+        count: 8
+  snapshots: []
+'8':
+  uniqueId: 35611e8f-8adf-45dc-9924-145683ea4fec
+  world: world
+  x: -4055
+  y: 85
+  z: -505
+  yaw: 110.299416
+  type: admin
+  open: true
+  name: Templor
+  object:
+    type: armor-stand
+    equipment:
+      FEET:
+        DataVersion: 4671
+        id: minecraft:leather_boots
+        count: 1
+      LEGS:
+        DataVersion: 4671
+        id: minecraft:leather_leggings
+        count: 1
+      CHEST:
+        DataVersion: 4671
+        id: minecraft:leather_chestplate
+        count: 1
+      HEAD:
+        DataVersion: 4671
+        id: minecraft:leather_helmet
+        count: 1
+    basePlate: false
+    showArms: true
+    small: false
+  recipes:
+    '1':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:globe_banner_pattern
+        count: 1
+        components:
+          minecraft:custom_name: '{bold:1b,color:"blue",italic:0b,text:"Cuartel",underlined:1b}'
+      item1:
+        DataVersion: 4671
+        id: minecraft:raw_gold
+        count: 32
+      item2:
+        DataVersion: 4671
+        id: minecraft:oak_log
+        count: 32
+    '2':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:field_masoned_banner_pattern
+        count: 1
+        components:
+          minecraft:custom_name: '{extra:[{bold:1b,color:"dark_aqua",text:"Casa"}],text:""}'
+      item1:
+        DataVersion: 4671
+        id: minecraft:oak_log
+        count: 32
+      item2:
+        DataVersion: 4671
+        id: minecraft:slime_ball
+        count: 64
+    '3':
+      resultItem:
+        DataVersion: 4671
+        id: minecraft:turtle_scute
+        count: 1
+        components:
+          minecraft:lore: '[{extra:[{bold:0b,color:"light_purple",italic:0b,obfuscated:0b,strikethrough:0b,text:"Canjealo
+            con un Admin",underlined:0b}],text:""}]'
+          minecraft:custom_name: '{extra:[{bold:0b,color:"dark_red",italic:0b,obfuscated:0b,strikethrough:0b,text:"Mejora
+            de Templor",underlined:0b}],text:""}'
+      item1:
+        DataVersion: 4671
+        id: minecraft:bone
+        count: 64
+      item2:
+        DataVersion: 4671
+        id: minecraft:raw_gold
+        count: 32
+  snapshots: []

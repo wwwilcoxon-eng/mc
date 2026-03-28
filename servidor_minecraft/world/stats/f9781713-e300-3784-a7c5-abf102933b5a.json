@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:oak_sapling": 1
+    },
+    "minecraft:mined": {
+      "minecraft:birch_leaves": 1
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 14570,
+      "minecraft:time_since_rest": 3307,
+      "minecraft:fall_one_cm": 2775,
+      "minecraft:walk_one_cm": 1723,
+      "minecraft:total_world_time": 3307,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 8231,
+      "minecraft:damage_taken": 40,
+      "minecraft:play_time": 3307,
+      "minecraft:jump": 51,
+      "minecraft:time_since_death": 3307
+    },
+    "minecraft:used": {
+      "minecraft:oak_sapling": 1
+    }
+  },
+  "DataVersion": 4671
+}
